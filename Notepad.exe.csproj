@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk=>
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
@@ -10,7 +10,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Update="Program.cs">
+    <Compile Update=>
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
       <Generator>ADD DOCUMENT ’text’’text’.</Generator>
       <CustomToolNamespace>Notepad.exe</CustomToolNamespace>
