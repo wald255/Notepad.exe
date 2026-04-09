@@ -7,7 +7,7 @@
   "This data file is a 10% random sample from the"
   "primary data file. It’s seed value is 13254689.".] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine();
         }
     }
 }
